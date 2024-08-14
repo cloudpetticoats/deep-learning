@@ -1,3 +1,5 @@
+* 参考书：[动手学深度学习](https://zh-v2.d2l.ai/)
+
 # _deep-learning notes_
 
 1. Logistic回归和Linear回归的区别如下图所示。两点区别：Logistic回归在Linear回归的基础上加了个Sigmoid函数；损失函数Logistic回归使用的是交叉熵损失函数，Linear回归是平方差损失函数。梯度下降策略一致。
